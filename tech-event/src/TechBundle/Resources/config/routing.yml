@@ -1,3 +1,0 @@
-tech_homepage:
-    path:     /index
-    defaults: { _controller: TechBundle:Default:index }
