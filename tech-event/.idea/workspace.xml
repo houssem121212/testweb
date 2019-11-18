@@ -77,7 +77,6 @@
     <option name="myCommands">
       <command value="c dump-autoload" />
       <command value="c friendsofsymfony/user-bundle &quot;~2.0&quot;" />
-      <command value="c require friendsofsymfony/user-bundle &quot;~2.0&quot;" />
       <command value="s generate:bundle" />
       <command value="s doctrine:database:create" />
       <command value=" s doctrine:schema:update" />
@@ -86,6 +85,7 @@
       <command value="s doctrine:generate:entity " />
       <command value="s doctrine:schema:create" />
       <command value=" s doctrine:schema:update --force " />
+      <command value="c require friendsofsymfony/user-bundle &quot;~2.0&quot;" />
     </option>
   </component>
   <component name="RunDashboard">
@@ -123,7 +123,7 @@
       <updated>1573995610937</updated>
       <workItem from="1573995951724" duration="7606000" />
       <workItem from="1574003627288" duration="19524000" />
-      <workItem from="1574072817426" duration="2915000" />
+      <workItem from="1574072817426" duration="7922000" />
     </task>
     <servers />
   </component>
